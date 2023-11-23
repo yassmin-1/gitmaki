@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(131, 52, 0, 0.944);
+     font-size: 15px;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h1{
+    color: rgb(228, 194, 135);
+background-color: chocolate;
+}
+
+
+div{
+    color: rgb(254, 132, 19);
+
+     
+}
+h3{
+    color: darkorange;
+}
+ul{
+    color:  cornsilk;
+}
+p{
+    color:  rgb(254, 132, 19);
+}
+a{
+    color: cornsilk;
+}
+p{
+    color: rgb(241, 163, 121);
+}
