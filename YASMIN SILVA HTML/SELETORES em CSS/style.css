@@ -20,3 +20,18 @@ h2{
     color: green;
     font-weight: bolder;
 }
+.intermediario{
+    color: aqua;
+    font-weight: bolder;
+}
+.avançado{
+    color: blueviolet;
+    font-weight: bolder;
+}
+p{
+    font-size: 30px;
+}
+.grande{
+    font-size: 60px;
+    color: chartreuse;
+}
